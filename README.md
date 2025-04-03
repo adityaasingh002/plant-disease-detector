@@ -32,9 +32,7 @@ To get started with the project, follow these steps:
 Clone the repository:
 
 bash
-Copy
-git clone https://github.com/Chando0185/plant_disease_detection.git
-cd plant_disease_detection
+
 Create a virtual environment (optional but recommended):
 
 bash
